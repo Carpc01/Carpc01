@@ -1,0 +1,27 @@
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+
+namespace Rextester
+{
+    public class Numeros
+    {
+        int
+        public static void Main(string[] args)
+        {
+           int num = 10;
+            num=10/3;
+            switch (num)
+             {
+             case 1: Console.WriteLine(“El resultado es 1”);
+             break;
+             case 2: Console.WriteLine(“El resultado es 2”);
+             break;
+             case 3: Console.WriteLine(“El resultado es 3”);
+             break;
+             case 4: Console.WriteLine(“El resultado es 4”);
+             break;
+             }
+        }
+    }
+}
